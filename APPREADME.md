@@ -1,4 +1,4 @@
-# asynchrony Project
+# Asynchrony Project
 
 A React application that fetches and displays blog posts from the JSONPlaceholder API. This project demonstrates asynchronous API calls, state management, and error handling in React.
 
@@ -52,7 +52,7 @@ asynchrony-project/
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd blog-posts-app
+   cd asynchrony-project
    ```
 
 2. Install dependencies:

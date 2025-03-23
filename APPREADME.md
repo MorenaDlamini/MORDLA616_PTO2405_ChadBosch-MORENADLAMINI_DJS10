@@ -1,4 +1,4 @@
-# Blog Posts Application
+# asynchrony Project
 
 A React application that fetches and displays blog posts from the JSONPlaceholder API. This project demonstrates asynchronous API calls, state management, and error handling in React.
 
@@ -30,7 +30,7 @@ This application retrieves blog post data from JSONPlaceholder, a free fake API 
 ## Project Structure 📂
 
 ```
-blog-posts-app/
+asynchrony-project/
 ├── src/
 │   ├── components/
 │   │   ├── Post.js              # Individual post component
